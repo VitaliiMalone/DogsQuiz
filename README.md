@@ -1,5 +1,5 @@
 # DogsQuiz
-Simple android quiz app where I used custom landscape layout xml, RadioGroup, ProgressBad, CardView, Intent etc.
+Simple android quiz app where I used custom landscape layout xml, RadioGroup, ProgressBar, CardView, Intent etc.
 
 Screenshots:
 
