@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DogsQuiz</string>
+    <string name="dog_question">What breed is this dog?</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="check_answer_button">Check answer</string>
+    <string name="well_done">Well done!
+Your score is:</string>
+    <string name="score">%i/%s</string>
+    <!--Dogs quiz -->
+    <!--10 correct-->
+    <string name="dog_beagle">Beagle</string>
+    <string name="dog_boxer">Boxer</string>
+    <string name="dog_bulldog">Bulldog</string>
+    <string name="dog_french_bulldog">French Bulldog</string>
+    <string name="dog_german_shepherd">German Shepherd</string>
+    <string name="dog_labrador">Labrador</string>
+    <string name="dog_poodle">Poodle</string>
+    <string name="dog_rottweiler">Rottweiler</string>
+    <string name="dog_siberian_husky">Siberian Husky</string>
+    <string name="dog_yorkshire_terrier">Yorkshire Terrier</string>
+    <!--10 incorrect-->
+    <string name="dog_american_foxhound">American Foxhound</string>
+    <string name="dog_chihuahua">Chihuahua</string>
+    <string name="dog_chow_chow">Chow Chow</string>
+    <string name="dog_collie">Collie</string>
+    <string name="dog_dalmatian">Dalmatian</string>
+    <string name="dog_dachshund">Dachshund</string>
+    <string name="dog_fox_terrier">Fox Terrier</string>
+    <string name="dog_greyhound">Greyhound</string>
+    <string name="dog_japanese_chin">Japanese Chin</string>
+    <string name="dog_maltese">Maltese</string>
+
+</resources>
